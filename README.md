@@ -1,2 +1,1 @@
-# my-mud
-This is our mud game.
+# This is our mud game.
